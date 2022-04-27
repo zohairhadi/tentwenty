@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - youtube-ios-player-helper (1.0.4)
+  - YoutubePlayer-in-WKWebView (0.3.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 5.0)
+  - youtube-ios-player-helper
+  - YoutubePlayer-in-WKWebView (~> 0.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - youtube-ios-player-helper
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+  YoutubePlayer-in-WKWebView: 4fca3b4f6f09940077bfbae7bddb771f2b43aacd
+
+PODFILE CHECKSUM: 24f22b7537f65bd4ff927dd92f71ed28d0d3abaa
+
+COCOAPODS: 1.11.2
